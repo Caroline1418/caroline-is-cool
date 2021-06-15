@@ -15,7 +15,7 @@ let resumeData = {
             "className": "fa fa-github"
         },
         {
-            "name": "skype",
+            "name": "instagram",
             "url": "https://www.instagram.com/carlphillips14/",
             "className": "fa fa-instagram"
         }
@@ -37,14 +37,13 @@ let resumeData = {
             "CompanyName": "Aerotek",
             "specialization": "Business Support Associate",
             "MonthOfLeaving": "Present",
-            "Achievements": "Some Achievements"
+            "Achievements": ""
         },
         {
-            "CompanyName": "Some Company",
-            "specialization": "Some specialization",
-            "MonthOfLeaving": "Jan",
-            "YearOfLeaving": "2018",
-            "Achievements": "Some Achievements"
+            "CompanyName": "GoHealth LLC",
+            "specialization": "Senior Benefits Advisor",
+            "MonthOfLeaving": "November",
+            "YearOfLeaving": "2020",
         }
     ],
     "skillsDescription": "",
