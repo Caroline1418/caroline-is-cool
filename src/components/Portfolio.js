@@ -19,9 +19,7 @@ export default class Porfolio extends Component {
                                                         <div className="portfolio-item-meta">
                                                             <h5>{item.name}</h5>
                                                             <p>{item.description}</p>
-                                                            {/* <button>
-                                                                {item.btn}
-                                                            </button> */}
+                                                            {/* <button onClick={item.link}>Click Here</button> */}
                                                         </div>
                                                     </div>
                                                 </a>

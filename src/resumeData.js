@@ -62,21 +62,20 @@ let resumeData = {
         {
             "name": "Run Buddy",
             "description": "HTML/CSS",
-            "imgurl": "images/flipped-hero-image.jpg"
+            "imgurl": "images/flipped-hero-image.jpg",
+            "link": "https://caroline1418.github.io/entertainment720/"
         },
         {
             "name": "Entertainment 720",
             "description": "Front End",
-            "imgurl": "images/ent720-resize.jpg"
+            "imgurl": "images/ent720-resize.jpg",
+            "link": "https://caroline1418.github.io/entertainment720/"
         },
         {
             "name": "Auto Log",
             "description": "Full Stack",
             "imgurl": "images/auto-log-resize.jpg",
-            // "btn": {
-            //     "text": "click here",
-            //     "href": ""
-            // }resu
+            "link": "https://radiant-headland-22067.herokuapp.com/"
         },
         {
             "name": "Weather Dashboard",
